@@ -35,7 +35,7 @@ def readline___Public_Xml():
 	print(" [1] Start Cracking  ")
 	print(" [2] Create Supper File [ Unlamented ]")
 	print(" [3] Feedback")
-	print(" [4] YouTube ")
+	print(" [4] FB GROUP")
 	print (" [5] Login Other Token")
 	print (" [0] Exit Programing")
 	print (' [*]=============================================')
@@ -61,7 +61,7 @@ def readline___Public_Xml():
 		login()
 	elif key in ["0", "00" , "6"]:
 		time.sleep(0.5)
-		print (" [•] Search : RAIHAN Aking")
+		print (" [•] Search : RAIHAN ")
 	elif key in ["0", "00"]:
 		exit("\n [✓] Thank you so much♥️\n")
 	else:
@@ -529,12 +529,12 @@ def convert(cok):
 	return __for
 
 def dupcutter():
-	os.system("xdg-open https://wa.me/+8801826842231")
+	os.system("xdg-open https://www.facebook.com/profile.php?id=100003472256152&mibextid=ZbWKwL")
 	time.sleep(3)
 	readline___Public_Xml()
 def sep():
 	logo()
-	os.system("xdg-open https://youtube.com/channel/UCyKYOmFgfuoS0fDL0wr90Dw")
+	os.system("xdg-open https://www.facebook.com/groups/452215046996439/?ref=share")
 	time.sleep(3)
 	readline___Public_Xml()
     
